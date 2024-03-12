@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b0741f-cc52-4f26-869e-b78773ad40bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tugas-12-Maret.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No1/ClothingProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No1/VariantProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No2/FoodItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No3/JenisPesawat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No3/Pesawat.java" afterDir="false" />
-    </list>
+    <list default="true" id="00b0741f-cc52-4f26-869e-b78773ad40bd" name="Changes" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Bayu",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "Errors"
   }
@@ -70,6 +51,30 @@
       <option name="presentableId" value="Default" />
       <updated>1710228620602</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1710230977770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710230977770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
